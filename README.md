@@ -5,7 +5,6 @@ The code is the implementation of Neural-Style algorithm developed by Leon A. Ga
 ![image](https://github.com/snehajha-coder/Implementation-of-Neural-Algorithm-of-Artistic-Style-using-PyTorch/assets/84180023/120263f8-9c56-45ad-a060-c43ebe0a6d92)
 Style of one image is imposed on the other image
 
-# Style Capturer
 
 ## How?
 
